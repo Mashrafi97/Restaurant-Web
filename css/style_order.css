@@ -1,0 +1,58 @@
+*{
+margin: 0;
+padding: 0;
+}
+a{
+    text-decoration: none;
+}
+.main{
+    height: 100vh;
+    width: 100%;
+    background-color: thistle;
+    margin: 0 auto;
+}
+.main a .italian{
+    height: 80px;
+    width: 200px;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+    float: left;
+    font-family: sans-serif;
+    background-color: darkorange;
+    margin-left: 900px;
+    margin-top: 50vh;
+    color: black;
+    font-size: 30px;
+    line-height: 80px;
+    padding-left: 35px;
+}
+.main a .italian:hover{
+    background-color: maroon;
+    color: white;
+}
+
+.main a .mexican{
+    height: 80px;
+    width: 200px;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+    float: left;
+    font-family: sans-serif;
+    background-color: darkorange;
+    margin-left:-500px;
+    margin-top: 50vh;
+    color: black;
+    font-size: 30px;
+    line-height: 80px;
+    padding-left: 10px;
+}
+.main a .mexican:hover{
+    background-color: maroon;
+    color: white;
+}

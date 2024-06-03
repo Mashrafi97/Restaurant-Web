@@ -1,0 +1,374 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    height: 1000px;
+    width: 1300px;
+    margin: 0 auto;
+    background-color: rgba(0,0,0,0.5);
+    padding-bottom: 200px;
+}
+.main h1{
+    font-size: 40px;
+    color: white;
+    font-family: brush script mt, brush script std, cursive;
+    text-align: center;
+    padding-top: 80px;
+}
+/* 1st pizza start */
+.main .four{
+    float: left;
+    margin-top: 30px;
+    margin-left: 36px;
+    height: 370px;
+    width: 370px;
+    background-color: white;
+    border-radius: 30px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+    position: relative;
+}
+.main .four img{
+    height: 210px;
+    width: 370px;
+    border-top-right-radius: 30px;
+    border-top-left-radius: 30px;
+}
+.main .four span{
+    margin-left:20px ;
+    color: orangered;
+    font-weight: bold;
+    font-size: 15px;
+}
+.main .four h2{
+    font-size: 20px;
+    margin-left:20px ;
+}
+.main .four h5{
+    margin-left: 20px;
+    font-size: 17px;
+}
+.main .four button{
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    height: 40px;
+    width: 130px;
+    color: rgb(128, 79, 44);
+    position: absolute;
+    right:20px ;
+    bottom: 15px;
+    transition: 0.7s;
+    -webkit-transition: 0.7s;
+    -moz-transition: 0.7s;
+    -ms-transition: 0.7s;
+    -o-transition: 0.7s;
+}
+.main .four button:hover{
+    background-color: orangered;
+    color: white;
+}
+/* 1st pizza start */
+
+
+/* 2nd pizza start */
+.main .four2{
+    float: left;
+    margin-top: 30px;
+    margin-left: 36px;
+    height: 370px;
+    width: 370px;
+    background-color: white;
+    border-radius: 30px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+    position: relative;
+}
+.main .four2 img{
+    height: 210px;
+    width: 370px;
+    border-top-right-radius: 30px;
+    border-top-left-radius: 30px;
+}
+.main .four2 span{
+    margin-left:20px ;
+    color: orangered;
+    font-weight: bold;
+    font-size: 15px;
+}
+.main .four2 h2{
+    font-size: 20px;
+    margin-left:20px ;
+}
+.main .four2 h5{
+    margin-left: 20px;
+    font-size: 17px;
+}
+.main .four2 button{
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    height: 40px;
+    width: 130px;
+    color: rgb(128, 79, 44);
+    position: absolute;
+    right:20px ;
+    bottom: 15px;
+    transition: 0.7s;
+    -webkit-transition: 0.7s;
+    -moz-transition: 0.7s;
+    -ms-transition: 0.7s;
+    -o-transition: 0.7s;
+}
+.main .four2 button:hover{
+    background-color: orangered;
+    color: white;
+}
+/* 2nd pizza end */
+
+/* 3rd pizza start */
+.main .four3{
+    float: left;
+    margin-top: 30px;
+    margin-left: 36px;
+    height: 370px;
+    width: 370px;
+    background-color: white;
+    border-radius: 30px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+    position: relative;
+}
+.main .four3 img{
+    height: 210px;
+    width: 370px;
+    border-top-right-radius: 30px;
+    border-top-left-radius: 30px;
+}
+.main .four3 span{
+    margin-left:20px ;
+    color: orangered;
+    font-weight: bold;
+    font-size: 15px;
+}
+.main .four3 h2{
+    font-size: 20px;
+    margin-left:20px ;
+}
+.main .four3 h5{
+    margin-left: 20px;
+    font-size: 17px;
+}
+.main .four3 button{
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    height: 40px;
+    width: 130px;
+    color: rgb(128, 79, 44);
+    position: absolute;
+    right:20px ;
+    bottom: 15px;
+    transition: 0.7s;
+    -webkit-transition: 0.7s;
+    -moz-transition: 0.7s;
+    -ms-transition: 0.7s;
+    -o-transition: 0.7s;
+}
+.main .four3 button:hover{
+    background-color: orangered;
+    color: white;
+}
+/* 3rd pizza end */
+
+
+/* 4th pizza start */
+.main .four4{
+    float: left;
+    margin-top: 30px;
+    margin-left: 36px;
+    height: 370px;
+    width: 370px;
+    background-color: white;
+    border-radius: 30px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+    position: relative;
+}
+.main .four4 img{
+    height: 210px;
+    width: 370px;
+    border-top-right-radius: 30px;
+    border-top-left-radius: 30px;
+}
+.main .four4 span{
+    margin-left:20px ;
+    color: orangered;
+    font-weight: bold;
+    font-size: 15px;
+}
+.main .four4 h2{
+    font-size: 20px;
+    margin-left:20px ;
+}
+.main .four4 h5{
+    margin-left: 20px;
+    font-size: 17px;
+}
+.main .four4 button{
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    height: 40px;
+    width: 130px;
+    color: rgb(128, 79, 44);
+    position: absolute;
+    right:20px ;
+    bottom: 15px;
+    transition: 0.7s;
+    -webkit-transition: 0.7s;
+    -moz-transition: 0.7s;
+    -ms-transition: 0.7s;
+    -o-transition: 0.7s;
+}
+.main .four4 button:hover{
+    background-color: orangered;
+    color: white;
+}
+/* 4th pizza end */
+
+/* 5th pizza start */
+.main .four5{
+    float: left;
+    margin-top: 30px;
+    margin-left: 36px;
+    height: 370px;
+    width: 370px;
+    background-color: white;
+    border-radius: 30px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+    position: relative;
+}
+.main .four5 img{
+    height: 210px;
+    width: 370px;
+    border-top-right-radius: 30px;
+    border-top-left-radius: 30px;
+}
+.main .four5 span{
+    margin-left:20px ;
+    color: orangered;
+    font-weight: bold;
+    font-size: 15px;
+}
+.main .four5 h2{
+    font-size: 20px;
+    margin-left:20px ;
+}
+.main .four5 h5{
+    margin-left: 20px;
+    font-size: 17px;
+}
+.main .four5 button{
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    height: 40px;
+    width: 130px;
+    color: rgb(128, 79, 44);
+    position: absolute;
+    right:20px ;
+    bottom: 15px;
+    transition: 0.7s;
+    -webkit-transition: 0.7s;
+    -moz-transition: 0.7s;
+    -ms-transition: 0.7s;
+    -o-transition: 0.7s;
+}
+.main .four5 button:hover{
+    background-color: orangered;
+    color: white;
+}
+/* 5th pizza end */
+
+
+/* 6th pizza start */
+.main .four5{
+    float: left;
+    margin-top: 30px;
+    margin-left: 36px;
+    height: 370px;
+    width: 370px;
+    background-color: white;
+    border-radius: 30px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+    position: relative;
+}
+.main .four5 img{
+    height: 210px;
+    width: 370px;
+    border-top-right-radius: 30px;
+    border-top-left-radius: 30px;
+}
+.main .four5 span{
+    margin-left:20px ;
+    color: orangered;
+    font-weight: bold;
+    font-size: 15px;
+}
+.main .four5 h2{
+    font-size: 20px;
+    margin-left:20px ;
+}
+.main .four5 h5{
+    margin-left: 20px;
+    font-size: 17px;
+}
+.main .four5 button{
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    height: 40px;
+    width: 130px;
+    color: rgb(128, 79, 44);
+    position: absolute;
+    right:20px ;
+    bottom: 15px;
+    transition: 0.7s;
+    -webkit-transition: 0.7s;
+    -moz-transition: 0.7s;
+    -ms-transition: 0.7s;
+    -o-transition: 0.7s;
+}
+.main .four5 button:hover{
+    background-color: orangered;
+    color: white;
+}
+/* 6th pizza end */
